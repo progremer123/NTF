@@ -1,4 +1,4 @@
-export const contractAddress = '0xDa3f9D3950e8e274a9e61c5FC55a632D64f2Ec69'
+export const contractAddress = '0x638Fd373fe866fF4e09eD8540609e02b6e99F5d0'
 
 export const SEPOLIA_CHAIN_ID = 11155111
 

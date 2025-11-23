@@ -7,10 +7,10 @@
 ## 프로젝트 정보
 
 ### 1. 컨트랙트 정보
-- **컨트랙트 주소**: `0xDa3f9D3950e8e274a9e61c5FC55a632D64f2Ec69`
+- **컨트랙트 주소**: `0x638Fd373fe866fF4e09eD8540609e02b6e99F5d0`
 - **네트워크**: Sepolia Testnet
 - **토큰 이름**: MyTestNFT (MTN)
-- **Etherscan 링크**: https://sepolia.etherscan.io/address/0xDa3f9D3950e8e274a9e61c5FC55a632D64f2Ec69
+- **Etherscan 링크**: https://sepolia.etherscan.io/address/0x638Fd373fe866fF4e09eD8540609e02b6e99F5d0
 
 ### 2. 배포된 앱 정보
 - **GitHub 저장소**: https://github.com/progremer123/NTF
