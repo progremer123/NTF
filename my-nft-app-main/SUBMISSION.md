@@ -13,8 +13,8 @@
 - **Etherscan 링크**: https://sepolia.etherscan.io/address/0xDa3f9D3950e8e274a9e61c5FC55a632D64f2Ec69
 
 ### 2. 배포된 앱 정보
-- **GitHub 저장소**: [여기에 GitHub 저장소 URL을 입력하세요]
-- **배포된 앱 주소**: [여기에 Vercel/Netlify 등 배포된 앱 URL을 입력하세요]
+- **GitHub 저장소**: https://github.com/progremer123/NTF
+- **배포된 앱 주소**: https://my-nft-app-main-1lmnup8cx-progremer123s-projects.vercel.app
 
 ### 3. 소유자 주소
 - **현재 연결된 지갑 주소**: 앱 실행 시 화면에 표시됩니다
